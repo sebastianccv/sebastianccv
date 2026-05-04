@@ -9,11 +9,13 @@
 
   <!-- About Me -->
   <h2>About Me</h2>
-  <p>
-    I am a Systems Engineer specialized in web development, both frontend and backend.  
-    I love studying and creating projects that integrate Artificial Intelligence, and I aspire to become an AI Engineer soon.  
-    I also have experience working with agile methodologies such as <b>XP</b> and <b>Scrum</b>.
-  </p>
+<p>
+  I am a Systems Engineer and Full-Stack Web Developer, specialized in both frontend and backend development.  
+  I love studying and creating projects that integrate Artificial Intelligence, and I aspire to become an AI Engineer soon.  
+  I am passionate about exploring new technologies, methodologies, and programming approaches to continuously improve my skills.  
+  I also have experience working with agile methodologies such as <b>XP</b> and <b>Scrum</b>.
+</p>
+
 
   <!-- Skills -->
   <h2>My Skills</h2>
