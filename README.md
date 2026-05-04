@@ -52,19 +52,24 @@
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="70"><br>Node.js</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="70"><br>Python</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Django.svg" width="70"><br>Django</td>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="70"><br>PostgreSQL</td>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="70"><br>MySQL</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/supabase.png" width="70"><br>Supabase</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="70"><br>C#</td>
+       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width="70"><br>PHP</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width="70"><br>PHP</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mongodb.png" width="32"><br>MongoDB</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kotlin.png" width="70"><br>Kotlin</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="70"><br>Java</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="70"><br>Spring</td>
     </tr>
   </table>
-
+  <h3>Data Base</h3>
+  <table aling="center">
+      <tr>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="70"><br>PostgreSQL</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="70"><br>MySQL</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mongodb.png" width="32"><br>MongoDB</td>
+  </tr>
+  </table>
   <!-- Tools & Others -->
   <h3>Tools & Others</h3>
   <table align="center">
@@ -77,7 +82,6 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" width="70"><br>Power BI</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="70"><br>C#</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker.png" width="70"><br>Docker</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github-light.png" width="70"><br>GitHub</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="70"><br>Git</td>
