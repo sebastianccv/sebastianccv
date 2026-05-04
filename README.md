@@ -58,8 +58,10 @@
     </tr>
     <tr>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width="70"><br>PHP</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mongodb.png" width="40"><br>MongoDB</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mongodb.png" width="32"><br>MongoDB</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kotlin.png" width="70"><br>Kotlin</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="70"><br>Java</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="70"><br>Spring</td>
     </tr>
   </table>
 
