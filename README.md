@@ -67,7 +67,6 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linux.png" width="70"><br>Linux</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/arduino.png" width="70"><br>Arduino</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" width="70"><br>Power BI</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare.png" width="70"><br>Cloudflare</td>
     </tr>
     <tr>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="70"><br>C#</td>
@@ -75,6 +74,7 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github-light.png" width="70"><br>GitHub</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="70"><br>Git</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jira.png" width="70"><br>Jira</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare.png" width="70"><br>Cloudflare</td>
     </tr>
   </table>
 </div>
