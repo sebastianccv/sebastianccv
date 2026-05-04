@@ -8,7 +8,10 @@
   </h1>
 
   <!-- About Me -->
-  <h2>About Me</h2>
+  <h2>About Me
+    <br>
+    <img src="https://media.tenor.com/F2Dqh4ytF9UAAAAi/pikapikapika.gif" width="90">
+  </h2>
 <p>
   I am a Systems Engineer and Full-Stack Web Developer, specialized in both frontend and backend development.  
   I love studying and creating projects that integrate Artificial Intelligence, and I aspire to become an AI Engineer soon.  
@@ -18,7 +21,10 @@
 
 
   <!-- Skills -->
-  <h2>My Skills</h2>
+  <h2>My Skills
+  <br>
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-1.gif" width="80">
+  </h2>
 
   <!-- Frontend -->
   <h3>Frontend</h3>
