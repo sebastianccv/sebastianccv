@@ -19,7 +19,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ---
 
-## Frontend &nbsp; <img src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-1.gif" width="50" align="center">
+## Frontend &nbsp; <img src="https://media.tenor.com/RKwYeBPr3pEAAAAi/me.gif" width="50" align="center">
 
 **Frameworks & Libraries**
 
