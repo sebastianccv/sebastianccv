@@ -1,0 +1,110 @@
+<svg width="860" height="280" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;family=Space+Grotesk:wght@400;600;700&amp;display=swap');
+
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; rx: 10; }
+      .border { stroke: #30363d; stroke-width: 1; fill: none; }
+      .title { font-family: 'Space Grotesk', sans-serif; font-size: 22px; font-weight: 700; fill: #e6edf3; }
+      .sub { font-family: 'Fira Code', monospace; font-size: 13px; fill: #58a6ff; }
+      .mono { font-family: 'Fira Code', monospace; font-size: 11px; }
+      .badge-text { font-family: 'Fira Code', monospace; font-size: 10px; font-weight: 600; }
+
+      .wave {
+        display: inline-block;
+        animation: wave 2s ease-in-out infinite;
+        transform-origin: 70% 70%;
+      }
+      @keyframes wave {
+        0%,100% { transform: rotate(0deg); }
+        25% { transform: rotate(20deg); }
+        75% { transform: rotate(-10deg); }
+      }
+
+      .typing {
+        animation: typing 4s steps(38) infinite;
+      }
+      @keyframes typing {
+        0%,100% { clip-path: inset(0 100% 0 0); }
+        30%,70% { clip-path: inset(0 0% 0 0); }
+      }
+
+      .cursor {
+        animation: blink 0.75s step-end infinite;
+      }
+      @keyframes blink {
+        0%,100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+
+      .dot-pulse {
+        animation: pulse 2s ease-in-out infinite;
+      }
+      @keyframes pulse {
+        0%,100% { opacity: 1; r: 4; }
+        50% { opacity: 0.6; r: 5.5; }
+      }
+
+      .fade-in { animation: fadeIn 1s ease forwards; }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="860" height="280" rx="14" class="bg"/>
+  <rect x="0.5" y="0.5" width="859" height="279" rx="13.5" class="border"/>
+
+  <!-- top bar -->
+  <rect width="860" height="38" rx="14" fill="#161b22"/>
+  <rect width="860" height="20" y="18" fill="#161b22"/>
+  <rect x="0.5" y="0.5" width="859" height="37" rx="0" fill="none" stroke="#30363d" stroke-width="0.5"/>
+  <circle cx="20" cy="19" r="5.5" fill="#ff5f57"/>
+  <circle cx="38" cy="19" r="5.5" fill="#febc2e"/>
+  <circle cx="56" cy="19" r="5.5" fill="#28c840"/>
+  <text x="74" y="23.5" class="mono" fill="#8b949e">README.md — GitHub Profile</text>
+
+  <!-- accent bar left -->
+  <rect x="0" y="0" width="3" height="280" rx="3" fill="#58a6ff" opacity="0.6"/>
+
+  <!-- emoji wave -->
+  <text x="370" y="90" font-size="30" text-anchor="middle" class="wave">👋</text>
+  <text x="400" y="90" font-size="30" text-anchor="middle">👨‍💻</text>
+
+  <!-- title -->
+  <text x="430" y="124" text-anchor="middle" class="title">Systems Engineer &amp; Full-Stack Dev</text>
+
+  <!-- typing line -->
+  <g>
+    <text x="430" y="148" text-anchor="middle" class="sub typing">// aspiring AI Engineer | open to collaborate</text>
+    <text x="634" y="148" class="sub cursor" font-size="13" font-family="'Fira Code', monospace">|</text>
+  </g>
+
+  <!-- badge: open to work -->
+  <rect x="90" y="163" width="118" height="22" rx="11" fill="#0d2119" stroke="#2ea043" stroke-width="0.8"/>
+  <circle cx="106" cy="174" r="4" fill="#56d364" class="dot-pulse"/>
+  <text x="114" y="178" class="badge-text" fill="#56d364">Open to Work</text>
+
+  <!-- badge: full-stack -->
+  <rect x="218" y="163" width="102" height="22" rx="11" fill="#0d1d2e" stroke="#1f6feb" stroke-width="0.8"/>
+  <text x="269" y="178" text-anchor="middle" class="badge-text" fill="#58a6ff">Full-Stack Dev</text>
+
+  <!-- badge: AI Enthusiast -->
+  <rect x="330" y="163" width="108" height="22" rx="11" fill="#1a1035" stroke="#8957e5" stroke-width="0.8"/>
+  <text x="384" y="178" text-anchor="middle" class="badge-text" fill="#bc8cff">AI Enthusiast</text>
+
+  <!-- badge: Agile -->
+  <rect x="448" y="163" width="130" height="22" rx="11" fill="#2d1800" stroke="#9e6a03" stroke-width="0.8"/>
+  <text x="513" y="178" text-anchor="middle" class="badge-text" fill="#d29922">Agile · XP · Scrum</text>
+
+  <!-- badge: Bolivia -->
+  <rect x="588" y="163" width="76" height="22" rx="11" fill="#161b22" stroke="#30363d" stroke-width="0.8"/>
+  <text x="626" y="178" text-anchor="middle" class="badge-text" fill="#8b949e">🇧🇴 Bolivia</text>
+
+  <!-- about text -->
+  <text x="430" y="220" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="12" fill="#8b949e">Passionate about building projects with</text>
+  <text x="430" y="238" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="12" fill="#8b949e">Artificial Intelligence · Agile methodologies · New Technologies</text>
+
+  <!-- bottom line -->
+  <line x1="60" y1="258" x2="800" y2="258" stroke="#21262d" stroke-width="0.8"/>
+  <text x="430" y="272" text-anchor="middle" font-family="'Fira Code', monospace" font-size="10" fill="#484f58">github.com/TU_USUARIO</text>
+</svg>
