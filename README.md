@@ -103,7 +103,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ## 🧩 Complementary Skills
 
-**Additional Languages**
+**Additional**
 
 | C# | Kotlin | PHP | Node.js |
 |:---:|:---:|:---:|:---:|
