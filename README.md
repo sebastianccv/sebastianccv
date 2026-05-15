@@ -6,16 +6,20 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me &nbsp; <img src="https://media.tenor.com/VDuhxv4Z7SAAAAAi/hii-excited.gif" width="55" align="center">
+
+<img src="https://media.tenor.com/F2Dqh4ytF9UAAAAi/pikapikapika.gif" width="100" align="right">
 
 I'm a **Systems Engineer** and **Full-Stack Web Developer** specialized in both frontend and backend development.
 I love studying and creating projects that integrate **Artificial Intelligence**, and I aspire to become an AI Engineer.
 I'm passionate about exploring new technologies, methodologies, and programming approaches to continuously improve my skills.
 I also have experience working with agile methodologies such as **XP** and **Scrum**.
 
+<br clear="right"/>
+
 ---
 
-## 🎨 Frontend
+## 🎨 Frontend &nbsp; <img src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-1.gif" width="50" align="center">
 
 **Frameworks & Libraries**
 
@@ -103,7 +107,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ## 🧩 Complementary Skills
 
-**Additional**
+**Additional Languages**
 
 | C# | Kotlin | PHP | Node.js |
 |:---:|:---:|:---:|:---:|
@@ -134,6 +138,8 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 ---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
