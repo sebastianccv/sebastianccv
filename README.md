@@ -102,9 +102,9 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 **Additional Languages**
 
-| C# | Kotlin | PHP | Node.js |
-|:---:|:---:|:---:|:---:|
-| <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kotlin.png" width="52"> | <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width="52"> | <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="52"> |
+| C# | Kotlin | PHP |
+|:---:|:---:|:---:|
+| <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kotlin.png" width="52"> | <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width="52"> |
 | C# | Kotlin | PHP | Node.js |
 
 **Hardware & Systems**
