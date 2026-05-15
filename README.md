@@ -124,7 +124,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 <div align="center">
 
-<img src="https://media.tenor.com/pGkM_5_L_90AAAAi/catholeface-cathole.gif" width="128">
+<img src="https://media.tenor.com/pGkM_5_L_90AAAAi/catholeface-cathole.gif" width="258">
 
 *"If you can imagine it, you can program it."* — Alejandro Taboada
 
