@@ -34,13 +34,12 @@
       <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" width="70"><br>Next.js</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="70"><br>React</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="70"><br>JavaScript</td>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="70"><br>HTML5</td>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="70"><br>CSS3</td>
     </tr>
     <tr>
+            <td align="center"><img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="70"><br>HTML5</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="70"><br>CSS3</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width="70"><br>Bootstrap</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="70"><br>TypeScript</td>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="70"><br>Vite.js</td>
     </tr>
   </table>
 
@@ -49,11 +48,9 @@
   <table align="center">
     <tr>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="70"><br>Node.js</td>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="70"><br>Python</td>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Django.svg" width="70"><br>Django</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/supabase.png" width="70"><br>Supabase</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="70"><br>C#</td>
-       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width="70"><br>PHP</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width="70"><br>PHP</td>
     </tr>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kotlin.png" width="70"><br>Kotlin</td>
