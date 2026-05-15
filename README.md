@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](./header.svg)
+<img src="./header.svg" width="100%" alt="header"/>
 
 </div>
 
