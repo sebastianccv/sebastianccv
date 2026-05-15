@@ -103,8 +103,4 @@
   <!-- about text -->
   <text x="430" y="220" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="12" fill="#8b949e">Passionate about building projects with</text>
   <text x="430" y="238" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="12" fill="#8b949e">Artificial Intelligence · Agile methodologies · New Technologies</text>
-
-  <!-- bottom line -->
-  <line x1="60" y1="258" x2="800" y2="258" stroke="#21262d" stroke-width="0.8"/>
-  <text x="430" y="272" text-anchor="middle" font-family="'Fira Code', monospace" font-size="10" fill="#484f58">github.com/TU_USUARIO</text>
 </svg>
