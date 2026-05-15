@@ -40,7 +40,6 @@
     <tr>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width="70"><br>Bootstrap</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="70"><br>TypeScript</td>
-      <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" width="70"><br>Vercel</td>
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="70"><br>Vite.js</td>
     </tr>
   </table>
@@ -87,6 +86,7 @@
       <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="70"><br>Git</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jira.png" width="70"><br>Jira</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare.png" width="70"><br>Cloudflare</td>
+      <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" width="70"><br>Vercel</td>
     </tr>
   </table>
 </div>
