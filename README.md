@@ -19,7 +19,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ---
 
-## 🎨 Frontend &nbsp; <img src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-1.gif" width="50" align="center">
+## Frontend &nbsp; <img src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-1.gif" width="50" align="center">
 
 **Frameworks & Libraries**
 
@@ -37,7 +37,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ---
 
-## ⚙️ Backend
+## Backend &nbsp; <img src="https://media.tenor.com/vW5V2pTCnhMAAAAi/dancing-dancing-cartman.gif" width="50" align="center">
 
 **Frameworks**
 
@@ -55,7 +55,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ---
 
-## 🗄️ Databases
+## Databases &nbsp; <img src="https://media.tenor.com/XsaDsadYl1kAAAAi/ahihimaine123.gif" width="50" align="center">
 
 **Relational**
 
@@ -80,7 +80,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ---
 
-## ☁️ Cloud & DevOps
+## Cloud and DevOps &nbsp; <img src="https://media.tenor.com/vP3Pzih0M-IAAAAi/mine.gif" width="50" align="center">
 
 **Cloud & Hosting**
 
@@ -96,16 +96,9 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker.png" width="52"> | <img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github-light.png" width="52"> |
 | Docker | Git | GitHub |
 
-**Project Management & Analytics**
-
-| Jira | Power BI | Selenium |
-|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jira.png" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/selenium.png" width="52"> |
-| Jira | Power BI | Selenium |
-
 ---
 
-## 🧩 Complementary Skills
+## Complementary Skills <img src="https://media.tenor.com/qc1t7j4NI8cAAAAj/ping%C3%BCino-coca-cola.gif" width="50" align="center">
 
 **Additional Languages**
 
@@ -121,6 +114,12 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/arduino.png" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linux.png" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-windows.png" width="52"> |
 | Arduino | Linux | Windows |
 
+**Project Management & Analytics**
+
+| Jira | Power BI | Selenium |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jira.png" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/selenium.png" width="52"> |
+| Jira | Power BI | Selenium |
 ---
 
 <div align="center">
