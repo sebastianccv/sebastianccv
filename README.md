@@ -123,20 +123,6 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastianccv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianccv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sebastianccv&theme=github-dark-blue&hide_border=true&background=0d1117)
-
-</div> 
-
----
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
