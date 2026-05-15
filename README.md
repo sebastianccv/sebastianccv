@@ -133,7 +133,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&background=0d1117)
 
-</div>
+</div> 
 
 ---
 
@@ -144,3 +144,4 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
+a
