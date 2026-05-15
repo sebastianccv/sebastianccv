@@ -126,7 +126,6 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"If you can imagine it, you can program it."* — Alejandro Taboada
 
 </div>
-a
