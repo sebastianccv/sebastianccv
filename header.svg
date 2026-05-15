@@ -40,7 +40,7 @@
   <rect x="0" y="0" width="4" height="420" rx="3" fill="#58a6ff" opacity="0.5"/>
 
   <!-- main title -->
-  <text x="430" y="140" text-anchor="middle" class="title">Systems Engineer &amp; Full-Stack Developer</text>
+  <text x="430" y="140" text-anchor="middle" class="title">Full-Stack Developer</text>
 
   <!-- subtitle typing -->
   <text x="192" y="178" class="sub typing">// aspiring AI Engineer | open to collaborate</text>
