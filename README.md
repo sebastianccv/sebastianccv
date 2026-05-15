@@ -98,7 +98,7 @@ I also have experience working with agile methodologies such as **XP** and **Scr
 
 ---
 
-## Complementary Skills; <img src="https://media.tenor.com/qc1t7j4NI8cAAAAj/ping%C3%BCino-coca-cola.gif" width="50" align="center">
+## Complementary Skills &nbsp; <img src="https://media.tenor.com/qc1t7j4NI8cAAAAj/ping%C3%BCino-coca-cola.gif" width="50" align="center">
 
 **Additional Languages**
 
