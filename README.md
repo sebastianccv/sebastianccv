@@ -76,7 +76,9 @@ Passionate about **Artificial Intelligence**, I continuously explore new technol
 |:---:|:---:|:---:|
 | <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" width="52"> | <img src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" width="52"> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker.png" width="52"> |
 
-### Version Control & OS
+---
+
+### Version Control & OS <img src="https://media.tenor.com/9Q6yY9eeXhQAAAAi/penguin.gif" width="45" align="center">
 
 | Git | GitHub | Linux |
 |:---:|:---:|:---:|
