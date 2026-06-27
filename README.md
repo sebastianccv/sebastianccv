@@ -107,6 +107,6 @@ Passionate about **Artificial Intelligence**, I continuously explore new technol
 
 <img src="https://media.tenor.com/pGkM_5_L_90AAAAi/catholeface-cathole.gif" width="230">
 
-*"If you can imagine it, you can build it."*
+*"Don't show to the world what you are going to be, show it to yourself."*
 
 </div>
